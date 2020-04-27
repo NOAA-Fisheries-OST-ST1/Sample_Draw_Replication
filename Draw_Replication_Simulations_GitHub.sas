@@ -97,9 +97,9 @@ SECTION 2:  RUN MACROS
 This section runs the following series of macros: 
 
 make_frame: generates the sample frame for use in the simulation
-rep_loop:  	draws sets of replicated samples using constrained and
+reps_loop:  	draws sets of replicated samples using constrained and
 			unconstrained draw replication processes
-erep_loop:	loops through a macro entitled 'estimation' for each set 
+ereps_loop:	loops through a macro entitled 'estimation' for each set 
 			of replicated samples.  The estimation macro estimates total 
 			catch and variance for each catch-per-unit distribution 
 			scenario (these were divided into two macros rather than being
