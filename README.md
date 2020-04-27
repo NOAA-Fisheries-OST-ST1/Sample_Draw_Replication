@@ -2,7 +2,7 @@
 
 Simulation code (written in SAS 9.4) for a constrained draw replication approach for selecting site-day sampling units for fisheries intercept surveys.
 
-Accompanies the following paper: 
+Accompanies the following article: 
 Papacostas, K.J. and Foster, J. (2020) A replication approach to controlled selection for catch sampling intercept surveys.
 Fisheries Research. 229, 105609. https://doi.org/10.1016/j.fishres.2020.105609.
 
