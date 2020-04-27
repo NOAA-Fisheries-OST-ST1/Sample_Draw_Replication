@@ -49,7 +49,7 @@ catch_seed = seed to generate a random set of numbers for catch each
 rho = parameter used to generate catch-per-unit distribution
 	  scenarios correlated with size measure
 nsamp = sample size
-sum_day = the number of sites-per day constraint imposed on the sample draw
+sum_day = the number of sites for the sites-per-day constraint imposed on the sample draw
 samp_frac = sampling fraction
 day_frac = constraint fraction
 reps = desired number of replicated samples to generate
